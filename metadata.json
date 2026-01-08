@@ -1,0 +1,7 @@
+{
+  "name": "Goraygacad Somali Exchange Portal",
+  "description": "A professional portal for the Somali Exchange Online service, featuring real-time status updates, business profile insights, and integrated currency exchange tools powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
